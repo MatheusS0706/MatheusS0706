@@ -2,7 +2,7 @@
 - Estou cursando T.i no Oswaldo Cruz<br>
 - Estou estadando banco de dados, Redes, html, css, java scrip.(aprendendo)<br>
 - E meu hobby é jogar
-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=oi!+👋+Meu+nome+é+Matheus.;Also+known+as+Buiu+:D;Welcome+to+my+github+:P)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=oi!+👋+Meu+nome+é+Matheus.;:D;Welcome+to+my+github+:P)](https://git.io/typing-svg)
 
 
 
