@@ -1,7 +1,7 @@
-Oiiii eu sou Matheus Teixeira Santos <br>
--Estou cursando T.i no Oswaldo Cruz<br>
--Estou estadando banco de dados, Redes, html, css, java scrip.(aprendendo)<br>
--Jogar
+## Oi eu sou Matheus Teixeira Santos <br>
+- Estou cursando T.i no Oswaldo Cruz<br>
+- Estou estadando banco de dados, Redes, html, css, java scrip.(aprendendo)<br>
+- E meu hobby é jogar
 
 
 
